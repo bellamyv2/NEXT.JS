@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" fill="none">
+  <rect width="960" height="720" fill="#DED8E9"/>
+  <circle cx="770" cy="149" r="106" fill="#F0CF92"/>
+  <rect x="94" y="80" width="772" height="560" rx="8" fill="#F8F6F1"/>
+  <text x="146" y="151" fill="#303530" font-family="Georgia,serif" font-size="33">Local network scanning</text>
+  <text x="148" y="184" fill="#7D7D75" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">LEARNING PROJECT · NMAP</text>
+  <path d="M473 301L281 405M480 302L480 431M490 301L689 403" stroke="#B8C0B5" stroke-width="5" stroke-dasharray="9 10"/>
+  <circle cx="480" cy="274" r="62" fill="#34443D"/>
+  <circle cx="480" cy="274" r="40" fill="#506751"/>
+  <text x="454" y="282" fill="#F8F6F1" font-family="Arial,sans-serif" font-size="17" font-weight="bold">LAN</text>
+  <rect x="174" y="393" width="212" height="110" rx="7" fill="#E9EDE5"/>
+  <rect x="198" y="412" width="164" height="62" rx="4" fill="#B9C9C1"/>
+  <path d="M262 474V488M237 489H286" stroke="#89978B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="214" cy="424" r="5" fill="#E77755"/>
+  <rect x="391" y="425" width="178" height="88" rx="7" fill="#E9EDE5"/>
+  <rect x="412" y="447" width="136" height="43" rx="4" fill="#D9B58D"/>
+  <circle cx="425" cy="460" r="4" fill="#76866C"/>
+  <circle cx="443" cy="460" r="4" fill="#76866C"/>
+  <circle cx="461" cy="460" r="4" fill="#76866C"/>
+  <rect x="589" y="393" width="200" height="110" rx="7" fill="#E9EDE5"/>
+  <rect x="615" y="410" width="148" height="72" rx="4" fill="#CAD6CD"/>
+  <rect x="637" y="430" width="103" height="6" rx="3" fill="#879783"/>
+  <rect x="637" y="445" width="82" height="6" rx="3" fill="#879783"/>
+  <text x="147" y="566" fill="#74776E" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">NETWORK DISCOVERY · DEVICE INVENTORY · LEARNING BY DOING</text>
+</svg>

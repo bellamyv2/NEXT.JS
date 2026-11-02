@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" fill="none">
+  <rect width="960" height="720" fill="#D7E1E5"/>
+  <circle cx="782" cy="128" r="110" fill="#F3D28B"/>
+  <rect x="100" y="77" width="760" height="566" rx="7" fill="#F8F7F3"/>
+  <text x="151" y="148" fill="#34413D" font-family="Georgia,serif" font-size="34">QR information project</text>
+  <text x="153" y="181" fill="#82877F" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">A QUICK SCAN, A CLEAR NEXT STEP</text>
+  <rect x="160" y="227" width="257" height="257" rx="7" fill="#E9ECE4"/>
+  <rect x="187" y="254" width="81" height="81" fill="#34443D"/>
+  <rect x="200" y="267" width="55" height="55" fill="#E9ECE4"/>
+  <rect x="211" y="278" width="33" height="33" fill="#34443D"/>
+  <rect x="309" y="254" width="81" height="81" fill="#34443D"/>
+  <rect x="322" y="267" width="55" height="55" fill="#E9ECE4"/>
+  <rect x="333" y="278" width="33" height="33" fill="#34443D"/>
+  <rect x="187" y="375" width="81" height="81" fill="#34443D"/>
+  <rect x="200" y="388" width="55" height="55" fill="#E9ECE4"/>
+  <rect x="211" y="399" width="33" height="33" fill="#34443D"/>
+  <path d="M293 365H316V388H293V365ZM338 365H361V388H338V365ZM293 410H316V433H293V410ZM361 410H384V433H361V410ZM316 433H339V456H316V433ZM339 388H362V411H339V388Z" fill="#34443D"/>
+  <rect x="481" y="237" width="322" height="260" rx="4" fill="#E8EDE6"/>
+  <circle cx="641" cy="307" r="35" fill="#74886F"/>
+  <path d="M624 307L637 320L660 293" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="540" y="376" fill="#34413D" font-family="Georgia,serif" font-size="23">Information, made</text>
+  <text x="568" y="408" fill="#34413D" font-family="Georgia,serif" font-size="23">easy to find.</text>
+  <rect x="564" y="438" width="158" height="36" rx="18" fill="#34443D"/>
+  <text x="600" y="461" fill="#F8F7F3" font-family="Arial,sans-serif" font-size="11">OPEN DETAILS ↗</text>
+  <text x="159" y="550" fill="#70766D" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">QR CODES · ACCESSIBLE INFORMATION · WEB DEVELOPMENT</text>
+</svg>
